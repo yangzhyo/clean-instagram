@@ -8,13 +8,13 @@ Clear all Instagram media, followers, followings etc.
 
 # Install
 
-```php
+```bash
 composer install
 ```
 
 # Execute task
 
-```php
+```bash
 cd src
 php delete_media.php
 php remove_followers.php
