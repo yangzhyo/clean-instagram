@@ -12,6 +12,10 @@ Clear all Instagram media, followers, followings etc.
 composer install
 ```
 
+# Prepare
+
+If you are using ShadowSocks to access Instagram, please undo comment for line ```$ig->setProxy('socks5://127.0.0.1:1086');```
+
 # Execute task
 
 ```bash
