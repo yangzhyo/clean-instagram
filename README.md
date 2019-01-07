@@ -1,6 +1,6 @@
 # Summary
 
-Clear all Instagram media, followers, followings etc.
+Clean all Instagram media, followers, followings etc.
 
 # Dependency
 
@@ -21,6 +21,7 @@ If you are using ShadowSocks to access Instagram, please undo comment for line `
 ```bash
 cd src
 php delete_media.php
+php delete_like.php
 php remove_followers.php
 php remove_followings.php
 ```
