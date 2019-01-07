@@ -1,6 +1,6 @@
 # Summary
 
-Clean / Remove all Instagram timeline, media, likes, followers, followings etc.
+Clean all Instagram timeline, media, likes, followers, followings etc.
 
 # Dependency
 
