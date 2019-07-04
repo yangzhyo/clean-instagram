@@ -28,4 +28,4 @@ php remove_followings.php
 
 # Reference
 
-[https://iya.ng/2018/12/31/clear-instagram-relationship/](https://iya.ng/2018/12/31/clear-instagram-relationship/)
+[https://iya.ng/2018/clear-instagram-relationship.html](https://iya.ng/2018/clear-instagram-relationship.html)
